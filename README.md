@@ -1,5 +1,8 @@
 # ServiceAngular
-
+<div align="center">
+<img src="https://github.com/eiandressacs/angular-searchPokemon/blob/master/src/assets/ServicePhoto.png" width="400" /> 
+</div>
+<hr>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
