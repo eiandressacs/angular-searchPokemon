@@ -19,6 +19,7 @@
   width: 80%;
   border-radius: 10px;
   padding: 3px;
+  caret-color: rgb(179, 14, 179);
 }
 
 .card__title{
@@ -28,6 +29,10 @@
 
 .card__title > h3 {
   color: #fff;
+}
+
+.card__title > h3::first-letter {
+  text-transform: uppercase;
 }
 
 .card__body {
@@ -54,7 +59,7 @@
   color: black;
   font-weight: bold;
 
-  background-color: coral;
+  background-color:  rgb(179, 14, 179);
   border-radius: 10px;
 
   padding: 5px 8px;
